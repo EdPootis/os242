@@ -2,7 +2,11 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
-ZCZC W01 180 L09 Assignment in general
+ZCZC W01 60 L32 Watching OS related videos
+ZCZC W01 10 L04 GitHub Pages related
+ZCZC W01 30 L06 GSGS and browsing OS related materials
+ZCZC W01 120 L05 Studying for quiz
+ZCZC W01 240 L09 Assignment in general
 ZCZC W01 30 L08 OS Chat related with friends
 ZCZC W01 5 L03 GitHub and git related
 ZCZC W01 200 L02 ClASSROOM meetings related
