@@ -12,3 +12,7 @@ permalink: LINKS/
 * [Linux Directories Explained in 100 Seconds](https://youtu.be/42iQKuQodW4) --- Quick explanation of Linux directories.
 * [Types of File System](https://youtu.be/_h30HBYxtws) --- Description of different types of file system.
 * [File System Comparison](https://www.easeus.com/diskmanager/file-system.html) --- Comparisons of the existing file systems.
+* [Segmented, Paged and Virtual Memory](https://youtu.be/p9yZNLeOj4s) --- A video that explains how memory management works on a computer.
+* [Operating Systems 2 - Memory Manager](https://youtu.be/qdkxXygc3rE) --- Another video that explains memory management.
+* [C pointers explained👉](https://youtu.be/DplxIq0mc_Y) --- A video that talks about pointers in C.
+* [Operating Systems: Main Memory](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/8_MainMemory.html) --- An explanation of main memory in an operating system and the mechanism associated with it.
