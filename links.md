@@ -16,3 +16,5 @@ permalink: LINKS/
 * [Operating Systems 2 - Memory Manager](https://youtu.be/qdkxXygc3rE) --- Another video that explains memory management.
 * [C pointers explained👉](https://youtu.be/DplxIq0mc_Y) --- A video that talks about pointers in C.
 * [Operating Systems: Main Memory](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/8_MainMemory.html) --- An explanation of main memory in an operating system and the mechanism associated with it.
+* [Paging & Page Replacement Algorithms - Operating Systems](https://youtu.be/Nif2TZ5Cohw?list=PLIY8eNdw5tW-BxRY0yK3fYTYVqytw8qhp) --- A youtube playlist that explain memory management and paging thoroughly.
+* [Paging in Operating Systems: What it Is & How it Works](https://phoenixnap.com/kb/paging) --- An explanation about paging in OS.
