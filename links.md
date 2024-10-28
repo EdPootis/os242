@@ -18,3 +18,6 @@ permalink: LINKS/
 * [Operating Systems: Main Memory](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/8_MainMemory.html) --- An explanation of main memory in an operating system and the mechanism associated with it.
 * [Paging & Page Replacement Algorithms - Operating Systems](https://youtu.be/Nif2TZ5Cohw?list=PLIY8eNdw5tW-BxRY0yK3fYTYVqytw8qhp) --- A youtube playlist that explain memory management and paging thoroughly.
 * [Paging in Operating Systems: What it Is & How it Works](https://phoenixnap.com/kb/paging) --- An explanation about paging in OS.
+* [Memory Management with mmap](https://my.eng.utah.edu/~cs4400/malloc.pdf) --- Slides about memory allocation using malloc and mmap.
+* [FANG Interview Question | Process vs Thread](https://youtu.be/4rLW7zg21gI) --- A video about explaining the difference between processes and threads.
+* [Difference between Multiprocessing and Multithreading](https://www.geeksforgeeks.org/difference-between-multiprocessing-and-multithreading/) --- Explanation on the difference of multiprocessing and multithreading.
