@@ -21,3 +21,5 @@ permalink: LINKS/
 * [Memory Management with mmap](https://my.eng.utah.edu/~cs4400/malloc.pdf) --- Slides about memory allocation using malloc and mmap.
 * [FANG Interview Question: Process vs Thread](https://youtu.be/4rLW7zg21gI) --- A video about explaining the difference between processes and threads.
 * [Difference between Multiprocessing and Multithreading](https://www.geeksforgeeks.org/difference-between-multiprocessing-and-multithreading/) --- Explanation on the difference of multiprocessing and multithreading.
+* [Thread Synchronization](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux_for_real_time/7/html/reference_guide/chap-thread_synchronization) --- Documentation about synchronization in Linux.
+* [Process Synchronization](https://youtu.be/ph2awKa8r5Y?list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2) --- Playlist that expalins all about process syncronization. 
