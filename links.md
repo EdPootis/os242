@@ -23,3 +23,5 @@ permalink: LINKS/
 * [Difference between Multiprocessing and Multithreading](https://www.geeksforgeeks.org/difference-between-multiprocessing-and-multithreading/) --- Explanation on the difference of multiprocessing and multithreading.
 * [Thread Synchronization](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux_for_real_time/7/html/reference_guide/chap-thread_synchronization) --- Documentation about synchronization in Linux.
 * [Process Synchronization](https://youtu.be/ph2awKa8r5Y?list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2) --- Playlist that expalins all about process syncronization. 
+* [Process Scheduling](https://youtu.be/EWkQl0n0w5M?list=PLBlnK6fEyqRitWSE_AyyySWfhRgyA-rHk) --- Playlist that explains process scheduling in an operating system with its methods/algorithms.
+* [Process Schedulers in Operating System](https://www.geeksforgeeks.org/process-schedulers-in-operating-system/) --- Explanation about process scheduling, types of schedulers, and FAQ.
